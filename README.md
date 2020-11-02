@@ -1,4 +1,4 @@
-# Virtual-Reality Project2
+# Virtual-Reality Project 2
 
 # Educating Traffic rules & signs in VR
 
