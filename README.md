@@ -19,23 +19,23 @@ This project educates a person about the traffic rules and signs (TRS) for drivi
 
 ### Fatalities Broken Down by Role
 
-
-
+![fatal](https://github.com/Madhuri-Gangadharan/Virtual-Reality_Project2/blob/main/Statistics/Fatalities.png)
 
 ### Traffic Deaths, 2010-2019 
 
-
+![accidents](https://github.com/Madhuri-Gangadharan/Virtual-Reality_Project2/blob/main/Statistics/accidents.png)
 
 ## Initial Design:
 
-### Module 1: 
+## Module 1: 
 
+![Module1](https://github.com/Madhuri-Gangadharan/Virtual-Reality_Project2/blob/main/Initial%20Design/Module1.png)
 
-### Module 2: 
-
+## Module 2: 
+![Module2](https://github.com/Madhuri-Gangadharan/Virtual-Reality_Project2/blob/main/Initial%20Design/Module2.png)
 
 ## Task Assignment:
-
+```
 Task 1:
 Building the city network passage with traffic signs and signals - Shwetha
 Building the 3D models required - Vaishnavee
@@ -48,6 +48,8 @@ Controlling the system based on traffic signs and signals- Madhuri and Shwetha
 Task 3:
   Instructions for the user to follow the route - Swathi
   Start and Stop UI controls - Swathi
+ 
+```
 
 ## References:
 
